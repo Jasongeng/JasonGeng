@@ -1,7 +1,7 @@
-## Hi there 👋
+## 新来的朋友，你们好吗？ 👋让我看见你们举起的双手！
 
 
-**Jasongeng/JasonGeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
