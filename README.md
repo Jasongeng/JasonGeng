@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 目前正在进行的项目为SelfBalenceCar。
-- 🌱 正在学习PID
+- 🔭 目前正在进行的项目为SelfBalenceCar;
+- 🌱 正在学习PID;
 - 📫 Reach me: jasonblucegeng@qq.com
